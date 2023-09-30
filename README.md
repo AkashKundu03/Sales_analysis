@@ -1,4 +1,4 @@
-# Sales_analysis
+# Sales_analysis using EXCEL
 Sales analysis of a local ecommerce store has been done with complete insights and recommendations
 
 Objective:
